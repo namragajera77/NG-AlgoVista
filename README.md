@@ -1,4 +1,4 @@
-# NG AlgoVista - Problem-Solving Platform with DSA Visualizations
+# NG AlgoVista - Problem-Solving  & Algorithem Visualization Platform
 
 **Visualize • Solve • Master Algorithms**
 
