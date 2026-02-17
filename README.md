@@ -1,4 +1,4 @@
-# NG AlgoVista - Full Stack Algorithm Learning Platform
+# NG AlgoVista - Problem-Solving Platform with DSA Visualizations
 
 **Visualize • Solve • Master Algorithms**
 
